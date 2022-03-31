@@ -1,0 +1,39 @@
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\App.g.cs
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1_MarkupCompile.cache
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1_MarkupCompile.lref
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\MainWindow.baml
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.g.resources
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Calculadora.g.cs
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Calculadora.baml
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Redefinir.g.cs
+C:\Users\2020102011031-6\Documents\projetos de desenvolvimento\Projeto1\obj\Debug\Redefinir.baml
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Calculadora.g.cs
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\MainWindow.g.cs
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Redefinir.g.cs
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\App.g.cs
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1_MarkupCompile.cache
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1_MarkupCompile.lref
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Calculadora.baml
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\MainWindow.baml
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Redefinir.baml
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.g.resources
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Eduarda moriá\Downloads\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
